@@ -17,3 +17,6 @@ A web Application similar to google, where you can search and surf the internet,
 
 ## What the app looks like
 ![google_lightmode1](https://github.com/pscon/Google-Clone/blob/main/src/assets/PaulLightmode.jpeg)
+![google_lightmode1](https://github.com/pscon/Google-Clone/blob/main/src/assets/amazonLight.jpeg)
+![google_darkmode1](https://github.com/pscon/Google-Clone/blob/main/src/assets/Amazondark.jpeg)
+![google_lightmode1](https://github.com/pscon/Google-Clone/blob/main/src/assets/video.jpeg)
