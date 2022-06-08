@@ -16,4 +16,4 @@ A web Application similar to google, where you can search and surf the internet,
 - Tailwind CSS
 
 ## What the app looks like
-
+![google_lightmode1](https://github.com/pscon/Google-Clone/blob/main/src/assets/PaulLightmode.jpeg)
